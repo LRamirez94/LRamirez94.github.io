@@ -78,19 +78,6 @@ def barGraph():
         all_listings.append(airbnb_dict)
     return render_template("Vis2.html", data=json.dumps(all_listings, default = myconverter))
 
-# @app.route("/bubble")
-# def bubblepage():
-# #  Create our session (link) from Python to the DB
-#     session = Session(engine)
-
-#     """Return a list of airbnb data including specific columns"""
-#     # Query all airbnb
-#     results_zoomTree = session.query(airbnb.neighbourhood_group, airbnb.neighbourhood, airbnb.latitude, airbnb.longitude, airbnb.room_type, airbnb.price, airbnb.minimum_nights, airbnb.number_of_reviews, airbnb.availability_365).all()
-#     session.close()
-
-#     # Create a dictionary from the row data and append to a list of all_airbnbs    
-#     return render_template("Vis3.html", data=json.dumps(results_zoomTree, default = myconverter))
-
 @app.route("/Vis3.html")
 def zoomTree():
 #  Create our session (link) from Python to the DB
