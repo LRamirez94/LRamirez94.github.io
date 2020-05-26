@@ -21,7 +21,13 @@ We created a database using AWS and loaded data to it using Postgres.  Once the 
 ### Map Visualization
 Using the Mapbox API and Leaflet this visualization allows the user to see all of New York on a Streetview map. Features include filtering by room type, clicking each listing showing them the price, and a link that will redirect them to the Airbnb listing.
 ![NYC](ETL_Flask/Resources/Images/map_viz.png)
+Created by: Leonardo Ramirez
 
+### Stacked Bar Chart
+![NYC](ETL_Flask/Resources/Images/stacked_bar.png)
+
+### Zoom Tree Chart
+![NYC](ETL_Flask/Resources/Images/zoomTree.png)
 
 ## Data Set Used
 ***
