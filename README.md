@@ -29,9 +29,13 @@ This bar chart shows the count of room types per neighborhood in New York City. 
 Created by: Veohnti Apofka
 
 ### Zoom Tree Chart
-This zoom tree shows the details of each listing categorized by neighborhood then boroughs then room type. This zoom tree can be filtered by price per night and once broken down to the listing can be clicked one to redirect the user to the Airbnb listing.
+This tree map shows the details of each listing categorized by neighborhood then boroughs then room type. This tree map can be filtered by price per night and once zoomed in to the listing can be clicked to redirect the user to the Airbnb listing.
 ![NYC](ETL_Flask/Resources/Images/zoomTree.png)
 Created by: Justin Frank
+
+### Website Details
+Used Python3 in a Jupyter Notebook to clean, analyze, and load the data to the cloud. The app was deployed using Python's Flask app library which rendered the webpages. The charts and maps were developed using JavaScript's libraries D3, Leaflet, Plotly, and Toast Chart UI.
+Created by: Leonardo Ramirez (Flask app), Tari Okoya-Koren (Flask app, data cleaning, HTML), and Araz Ohanessian (HTML, CSS)
 
 ## Data Set Used
 ***
