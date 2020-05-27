@@ -24,10 +24,14 @@ Using the Mapbox API and Leaflet this visualization allows the user to see all o
 Created by: Leonardo Ramirez
 
 ### Stacked Bar Chart
+This bar chart shows the count of room types per neighborhood in New York City. The bar chart can be filtered by room type and can be downloaded as a png, jpeg, xls, or csv file. 
 ![NYC](ETL_Flask/Resources/Images/stacked_bar.png)
+Created by: Veohnti Apofka
 
 ### Zoom Tree Chart
+This zoom tree shows the details of each listing categorized by neighborhood then boroughs then room type. This zoom tree can be filtered by price per night and once broken down to the listing can be clicked one to redirect the user to the Airbnb listing.
 ![NYC](ETL_Flask/Resources/Images/zoomTree.png)
+Created by: Justin Frank
 
 ## Data Set Used
 ***
