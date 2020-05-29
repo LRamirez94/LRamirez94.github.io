@@ -4,7 +4,7 @@
 
 ## Developers
 ***
-Leonardo Ramirez, Vehonti Apofka, Justin Frank, Araz Ohanessian and Tari Okoya-Koren
+Leonardo Ramirez, Veohnti Afokpa, Justin Frank, Araz Ohanessian and Tari Okoya-Koren
 ***
 ## Description
 ***
@@ -26,7 +26,7 @@ Created by: Leonardo Ramirez
 ### Stacked Bar Chart
 This bar chart shows the count of room types per neighborhood in New York City. The bar chart can be filtered by room type and can be downloaded as a png, jpeg, xls, or csv file. 
 ![NYC](ETL_Flask/Resources/Images/stacked_bar.png)
-Created by: Veohnti Apofka
+Created by: Veohnti Afokpa
 
 ### Zoom Tree Chart
 This tree map shows the details of each listing categorized by neighborhood then boroughs then room type. This tree map can be filtered by price per night and once zoomed in to the listing can be clicked to redirect the user to the Airbnb listing.
